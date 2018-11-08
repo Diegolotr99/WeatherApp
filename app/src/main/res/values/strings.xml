@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_zip_message">Enter a Zip Code:</string>
+    <string name="get">Get</string>
+    <string name="city">City:</string>
+    <string name="country">Country:</string>
+</resources>
