@@ -12,8 +12,7 @@ class ForecastRequest(private val zipCode: String) {
         private const val COMPLETE_URL = "$URL&APPID=$APP_ID&zip="
     }
         fun execute(): ForecastResult {
-            val br : BufferedReader
-
+            
             val forecastJsonStr: String
             try {
                 forecastJsonStr = URL(COMPLETE_URL + zipCode).readText()

@@ -5,4 +5,9 @@
     <color name="colorAccent">#008577</color>
     <color name="white">#FFFF</color>
     <color name="black">#000</color>
+    <color name="sea_green">#2E8B57</color>
+    <color name="russian_green">#679267</color>
+    <color name="hunter_green">#3f704d</color>
+    <color name="transparent">#00000000</color>
+
 </resources>
